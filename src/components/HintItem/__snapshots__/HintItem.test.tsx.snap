@@ -1,0 +1,9 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`HintItem should render a hint-item 1`] = `
+<div
+  className="hint-item active"
+  onClick={[Function]}
+  onMouseEnter={[Function]}
+/>
+`;
